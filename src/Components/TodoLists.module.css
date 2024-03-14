@@ -1,0 +1,14 @@
+.add {
+  margin-top: 20px;
+}
+
+.button {
+  background-color: rgb(223, 22, 22);
+  color: white;
+  border: none;
+  padding: 5px;
+  width: 60px;
+  position: relative;
+  bottom: 5px;
+  border-radius: 5px;
+}
